@@ -4,7 +4,7 @@
 @@ Software Engineering Student @@
 
 + Passionate about computers and gaming
-- 18 years old
+- 19 years old
 ! I'm Brazilian and I live in Belo Horizonte
 # Passionate about Full Stack Web Development
 ```
