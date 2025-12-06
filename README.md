@@ -4,7 +4,7 @@
 @@ Software Engineer @@
 
 + Passionate about computers and gaming
-- 19 years old
+- 20 years old
 ! I'm Brazilian and I live in Belo Horizonte
 ```
 
